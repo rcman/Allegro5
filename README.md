@@ -5,7 +5,7 @@ you need to install scons and python
 
 sudo apt install scons sudo apt install python3
 
-For Allegro5 you need to install all SDL dev library on your box
+For Allegro5 you need to install all Allegro 5 dev library on your box
 
 The SConstrct file
 
